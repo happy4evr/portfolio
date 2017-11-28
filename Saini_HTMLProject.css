@@ -1,0 +1,287 @@
+#html {
+    background-color: #afa4d8;
+}
+#img  {
+    width: 330px;
+    height: 330px;
+    position: fixed;
+    top: 100px;
+    left: 100px;
+}
+#img2  {
+    width: 330px;
+    height: 330px;
+    position: fixed;
+    top: 100px;
+    left: 350px;
+}
+#img3  {
+    width: 330px;
+    height: 330px;
+    position: fixed;
+    top: 100px;
+    left: 700px;
+}
+#abtme  {
+    width: 1470px;
+    height: 610px;
+    text-align: center;
+    margin-left: 10px;
+    padding: 10px;
+}
+#abtme2  {
+    margin-left: 0px;
+    margin-right: 70px;
+    text-align: left;
+    display: block;
+    
+}
+#blue  {
+    background-color: #095e63;
+    color: #f7feff;
+    margin-top: 25px;
+    text-align: center;
+}
+.wallpape  {
+    background-image: url("Images/bokeh-background-25.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #8dacdd;
+}
+.table1:hover .tabltxt {
+    visibility: visible;
+    opacity: 1;
+}
+
+#table1 {
+  position: relative;
+  height: 200px;
+  width: 257px;
+  margin-left:0px;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  text-align: left;
+}
+
+.tabltxt {
+  position: absolute;
+  background-color: #4f5051;
+  color: #fff;
+  visibility: hidden;
+  opacity: 0;
+}
+#waterfall  {
+ height: 300px;
+ width: 1517px;
+    
+    
+}
+.jumbotron  {
+    background-color:#367887;
+}
+#ul3  {
+    margin-left: 500px;
+    
+}
+.blue2  {
+    margin-left: 460px;
+    font-size: 30px;
+    font-family:Arial;
+    
+}
+.left  {
+    height: 900px;
+    width: 100px;
+    background-color:#d5edef ;
+    margin-left: 50px;
+    border-radius: 20px 20px 20px 20px;
+    
+}
+#tabl  {
+    height: 490px;
+    width: 370px;
+    margin-top: 100px;
+}
+.ft  {
+    margin-top: 400px;
+}
+.bl2  {
+    font-size: 25px;
+    margin-left: 5px;
+    font-family:Arial;
+    list-style-type: square;
+}
+.para  {
+    margin-left: 400px; 
+    margin-top:10px;
+}
+#tree  {
+    font-size: 20px;
+    color:white ;
+    text-align:left;
+    
+}
+.hm {
+  -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+       -o-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+}
+ 
+.hm:hover {
+  border-radius: 50%;
+  -webkit-transform: rotate(360deg);
+     -moz-transform: rotate(360deg);
+       -o-transform: rotate(360deg);
+      -ms-transform: rotate(360deg);
+          transform: rotate(360deg);
+}
+#bd  {
+    background-color:#b8d8e0;
+    background-size: cover;
+}
+#bdo  {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#name  {
+    font-size: 40px;
+}
+
+#aloha  {
+    font-size: 70px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 70px;
+    text-decoration: underline;
+    margin-left: 50px;
+    color: black;
+}
+
+#im  {
+    width: 330px;
+    height: 330px;
+    background-color:#b8d8e0 ;
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#mn  {
+    background-color:white ;
+}
+#ee  {
+    list-style-type: circle;
+    font-size: 20px;
+    margin-left: 25px;
+    font-family: Arial;
+}
+#nt2  {
+    font-family:Arial ;
+    list-style-type: square;
+    margin-left: 60px;
+    font-size: 20px;
+}
+
+#nt  {
+    font-family:Arial ;
+    list-style-type: circle;
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+#min  {
+    width: 1517px;
+    height: 600px;
+    background-color: #367887;
+    margin-top: 10px;
+}
+.main {
+    width: 1470px;
+    margin-left: 25px;
+}
+.main2 {
+    width: 1470px;
+    margin-left: 25px;
+    height: 1000px;
+}
+
+#abtme3  {
+    width: 1470px;
+    height: 610px;
+    text-align: center;
+    margin-right: 100px;
+    margin-top: 40px;
+    color: black;
+}
+#abtme4  {
+    height: 470px;
+    width: 320px;
+    margin-top: 100px;
+    
+}
+
+#th  {
+    background-color: #367887;
+    height: 700px;
+}
+#th2  {
+    background-color: #367887;
+    height: 700px;
+}
+#abtme10 {
+    width: 1470px;
+    height: 610px;
+    background-color: #367887;
+    text-align: center;
+    margin-right: 100px;
+    margin-top: 10px;
+    color: black;
+}
+#imgmani {
+    margin-top: 10px;
+}
+
+#aloha2  {
+    font-size: 70px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 70px;
+    text-decoration: underline;
+    margin-left: 50px;
+    color: black;
+    margin-top: 40px;
+}
+#abtme30  {
+    width: 1470px;
+    height: 610px;
+    text-align: center;
+    margin-right: 100px;
+    margin-top: 0px;
+    color: black;
+}
+#abtme100 {
+    width: 1470px;
+    height: 610px;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
