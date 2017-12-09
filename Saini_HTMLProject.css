@@ -29,12 +29,20 @@
     margin-left: 10px;
     padding: 10px;
 }
+#abtme22  {
+    margin-left: 10px;
+    margin-right: 70px;
+    margin-top: 30px;
+    text-align: left;
+    display: block;
+    width: 340px;
+    height: 550px;    
+}
 #abtme2  {
     margin-left: 0px;
     margin-right: 70px;
     text-align: left;
     display: block;
-    
 }
 #blue  {
     background-color: #095e63;
@@ -42,7 +50,7 @@
     margin-top: 25px;
     text-align: center;
 }
-.wallpape  {
+.wallpaper  {
     background-image: url("Images/bokeh-background-25.jpg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -230,6 +238,10 @@
     background-color: #367887;
     height: 700px;
 }
+#th3  {
+    background-color: #367887 ;
+    height: 700px;
+}
 #abtme10 {
     width: 1470px;
     height: 610px;
@@ -268,7 +280,10 @@
     margin-left: 50px;
     margin-right: 100px;
 }
-
+#links{
+    color: white;
+    font-size: 24px;
+}
 
 
 
