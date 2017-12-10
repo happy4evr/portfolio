@@ -290,7 +290,21 @@
     margin-top: 100px;
     
 }
-
+#something {
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial;
+    margin-left: 50px;
+    color: black;
+}
+#aloha2  {
+    font-size: 50px;
+    text-align: center;
+    font-family: Arial;
+    text-decoration: underline;
+    margin-left: 50px;
+    color: black;
+}
 
 
 
