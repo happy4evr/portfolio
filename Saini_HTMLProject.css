@@ -50,6 +50,12 @@
     margin-top: 25px;
     text-align: center;
 }
+#blue100  {
+    color: white;
+    margin-top: 25px;
+    text-align: center;
+    font-size: 30px;
+}
 .wallpaper  {
     background-image: url("Images/bokeh-background-25.jpg");
     background-size: cover;
@@ -166,6 +172,24 @@
     margin-left: 50px;
     color: black;
 }
+#aloha8 {
+    text-align: center;
+    font-family: Georgia;
+    font-size: 30px;
+    text-decoration: underline;
+    margin-left: 580px;
+    color: white;
+}
+#aloha7  {
+    font-size: 70px;
+    text-align: center;
+    font-family: Georgia;
+    font-size: 70px;
+    text-decoration: underline overline;;
+    margin-left: 50px;
+    color: white;
+    font-weight: normal;
+}
 
 #im  {
     width: 330px;
@@ -229,6 +253,10 @@
     margin-top: 100px;
     
 }
+#t {
+    background-color: #000066;
+    height: 160px;
+}
 
 #th  {
     background-color: #367887;
@@ -236,6 +264,10 @@
 }
 #th2  {
     background-color: #367887;
+    height: 700px;
+}
+#tt {
+    background-color: #ccccff;
     height: 700px;
 }
 #th3  {
@@ -273,6 +305,16 @@
     margin-top: 0px;
     color: black;
 }
+#abtme300  {
+    width: 1470px;
+    height: 610px;
+    text-align: center;
+    margin-right: 100px;
+    margin-top: 0px;
+    color: black;
+    font-size: 28px ;
+}
+
 #abtme100 {
     width: 1470px;
     height: 610px;
@@ -305,7 +347,6 @@
     margin-left: 50px;
     color: black;
 }
-
 
 
 
