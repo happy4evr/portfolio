@@ -173,12 +173,9 @@
     color: black;
 }
 #aloha8 {
-    text-align: center;
     font-family: Georgia;
-    font-size: 30px;
-    text-decoration: underline;
-    margin-left: 580px;
-    color: #b3d9ff;
+    font-size: 15px;
+    color: #4d4d4d;
 }
 #aloha7  {
     font-size: 70px;
@@ -248,23 +245,33 @@
     color: black;
 }
 #abtme4  {
-    height: 470px;
-    width: 320px;
-    margin-top: 100px;
+    margin-top: 50px;
+    height: 460px;
+    width: 350px;
     
+    
+}
+#abtme10  {
+    margin-top: 50px;
+    height: 100px;
+    width: 100px;
+    
+    
+}
+#abtme43  {
+    margin-top: 6.5px;
+     height: 460px;
+    width: 300px;
 }
 #t {
     background-color: #000066;
-    height: 300px;
 }
 
 #th  {
     background-color: #367887;
-    height: 700px;
 }
 #th2  {
     background-color: #367887;
-    height: 700px;
 }
 #tt {
     background-color: #ccccff;
@@ -272,7 +279,6 @@
 }
 #th3  {
     background-color: #367887 ;
-    height: 700px;
 }
 #abtme10 {
     width: 1470px;
@@ -329,7 +335,21 @@
 #abtme44  {
     height: 460px;
     width: 350px;
-    margin-top: 100px;
+    margin-top: 50px;
+    
+    
+}
+#abtme11  {
+    height: 300px;
+    width: 350px;
+    margin-top: 50px;
+    
+    
+}
+#abtme444  {
+    height: 460px;
+    width: 350px;
+    margin-top: 50px;
     
 }
 #something {
@@ -355,7 +375,21 @@
 }
 
 
-
+#id{
+    margin-left: 70px;
+    margin-top: 30px;
+    font-family: Georgia;
+    font-size: 15px;
+}
+#id2{
+    margin-left:5px;
+}
+#id3{
+    margin-left: 15px;
+    margin-top: 10px;
+    font-family: Georgia;
+    font-size: 15px;
+}
 
 
 
